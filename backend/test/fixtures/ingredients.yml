@@ -1,0 +1,25 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+egg:
+  name: egg
+
+flour:
+  name: flour
+
+milk:
+  name: milk
+
+sugar:
+  name: sugar
+
+butter:
+  name: butter
+
+eggplant:
+  name: eggplant
+
+olive_oil:
+  name: olive oil
+
+parmigiano_reggiano:
+  name: parmigiano-reggiano cheese

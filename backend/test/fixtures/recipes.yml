@@ -1,0 +1,37 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+fried_egg:
+  title: Fried Egg
+  prep_time: 1
+  cook_time: 3
+  ratings: 4.6
+
+boiled_egg:
+  title: Boiled Egg
+  prep_time: 1
+  cook_time: 8
+  ratings: 4.0
+
+pancakes:
+  title: Pancakes
+  prep_time: 10
+  cook_time: 15
+  ratings: 4.5
+
+crepes:
+  title: Crepes
+  prep_time: 10
+  cook_time: 20
+  ratings: 4.8
+
+grilled_eggplant:
+  title: Grilled Eggplant
+  prep_time: 5
+  cook_time: 10
+  ratings: 4.9
+
+spinach_toasts:
+  title: Spinach Toasts
+  prep_time: 5
+  cook_time: 5
+  ratings: 4.7

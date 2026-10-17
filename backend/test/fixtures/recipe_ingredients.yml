@@ -1,0 +1,71 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+fried_egg_egg:
+  recipe: fried_egg
+  ingredient: egg
+  raw_text: 1 egg
+
+boiled_egg_egg:
+  recipe: boiled_egg
+  ingredient: egg
+  raw_text: 2 eggs
+
+pancakes_egg:
+  recipe: pancakes
+  ingredient: egg
+  raw_text: 1 egg
+
+pancakes_flour:
+  recipe: pancakes
+  ingredient: flour
+  raw_text: 1 cup flour
+
+pancakes_milk:
+  recipe: pancakes
+  ingredient: milk
+  raw_text: 1 cup milk
+
+crepes_egg:
+  recipe: crepes
+  ingredient: egg
+  raw_text: 2 eggs
+
+crepes_flour:
+  recipe: crepes
+  ingredient: flour
+  raw_text: 1 cup flour
+
+crepes_milk:
+  recipe: crepes
+  ingredient: milk
+  raw_text: 1 ½ cups milk
+
+crepes_sugar:
+  recipe: crepes
+  ingredient: sugar
+  raw_text: 1 tablespoon sugar
+
+crepes_butter:
+  recipe: crepes
+  ingredient: butter
+  raw_text: 2 tablespoons butter, melted
+
+grilled_eggplant_eggplant:
+  recipe: grilled_eggplant
+  ingredient: eggplant
+  raw_text: 1 large eggplant, sliced
+
+grilled_eggplant_olive_oil:
+  recipe: grilled_eggplant
+  ingredient: olive_oil
+  raw_text: 2 tablespoons olive oil
+
+spinach_toasts_parmigiano_reggiano:
+  recipe: spinach_toasts
+  ingredient: parmigiano_reggiano
+  raw_text: ¼ cup freshly shredded Parmigiano-Reggiano cheese
+
+spinach_toasts_olive_oil:
+  recipe: spinach_toasts
+  ingredient: olive_oil
+  raw_text: 1 tablespoon olive oil
